@@ -1,7 +1,7 @@
 {
-  "name": "react-native-walkthrough",
-  "version": "0.2.1",
-  "description": "A lightweight walkthrough library for React Native utilizing React's Context API",
+  "name": "react-native-walkthrough-custom",
+  "version": "1.0.0",
+  "description": "A lightweight walkthrough library for React Native utilizing React's Context API. This version was updated by Alejo Castiblanco",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "scripts": {
@@ -13,17 +13,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jasongaare/react-native-walkthrough.git"
+    "url": "git+https://github.com/AlejoCasti/react-native-walkthrough-custom.git"
   },
   "author": "Jason Gaare",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jasongaare/react-native-walkthrough/issues"
+    "url": "https://github.com/AlejoCasti/react-native-walkthrough-custom/issues"
   },
-  "homepage": "https://github.com/jasongaare/react-native-walkthrough#readme",
+  "homepage": "https://github.com/AlejoCasti/react-native-walkthrough-custom#readme",
+  "contributors": [
+    "Alejo Castiblanco <acastiblanco8@gmail.com>"
+  ],
   "dependencies": {
     "events": "3.0.0",
-    "react-native-walkthrough-tooltip": "1.1.7"
+    "react-native-walkthrough-tooltip": "1.5.0"
   },
   "peerDependencies": {
     "react": "^16.4.1",
